@@ -1,7 +1,5 @@
 faicons
-palmerpenguins
 pandas
-pyarrow
 plotly
 seaborn
 shiny
